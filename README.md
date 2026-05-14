@@ -1,6 +1,6 @@
-![Banner](JCBL%20Cover.png)
+![Banner](./JCBL%20Cover.png)
 
-![Logo](Untitled%20design%20\(26\).jpg)
+![Logo](./Untitled%20design%20%2826%29.jpg)
 
 # 🚗 JCBL India Auto Moto
 
